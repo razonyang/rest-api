@@ -1,0 +1,17 @@
+github.com/clevergo/clevergo v1.3.1 h1:T4moApoSQIpB2/RrEUSPwyCvgmh83blFwrM9vQg9AdM=
+github.com/clevergo/clevergo v1.3.1/go.mod h1:/BB51A8ohBG/GCHbN7mUPK6vJNm6XXC+4V/yS0c7RsA=
+github.com/clevergo/form v1.1.0 h1:l42zo8Bu4Bh2gtTGPmjf1HdR5UY9ZarPhrR14lU0kJI=
+github.com/clevergo/form v1.1.0/go.mod h1:MhUWmAL5f5nNe8HHsqtPnFj1pjvBB53rc7aPGwcWPHc=
+github.com/clevergo/i18n v1.0.1 h1:Qb2cq0JWzzWNBmep3kdNF38PfHXfPn44Npaowcsaopw=
+github.com/clevergo/i18n v1.0.1/go.mod h1:1bALbvlWLHCWxQIL/of9I2uqLivc9CUWrun/S3y2zb0=
+github.com/clevergo/jsend v1.0.2 h1:wW+He/B1LJyE9Ug7vbmQtHi2qfy2wrxehcUpDN+4gRA=
+github.com/clevergo/jsend v1.0.2/go.mod h1:E+I74EoysZjJU0/fYrv1ktIESOq7O4P+VU7JAYsr3Mo=
+github.com/clevergo/middleware v1.0.1 h1:Y5WLwKi0puB5iqBGM5C7hs5YJXvEd10Dr5zXf2BRep8=
+github.com/clevergo/middleware v1.0.1/go.mod h1:+TgoNthc7JquG1eqOpMRkK8IxGZOyNqriB0IyIBaHKQ=
+github.com/gorilla/handlers v1.4.2 h1:0QniY0USkHQ1RGCLfKxeNHK9bkDHGRYGNDFBCS+YARg=
+github.com/gorilla/handlers v1.4.2/go.mod h1:Qkdc/uu4tH4g6mTK6auzZ766c4CA0Ng8+o/OAirnOIQ=
+github.com/gorilla/schema v1.1.0 h1:CamqUDOFUBqzrvxuz2vEwo8+SUdwsluFh7IlzJh30LY=
+github.com/gorilla/schema v1.1.0/go.mod h1:kgLaKoK1FELgZqMAVxx/5cbj0kT+57qxUrAlIO2eleU=
+golang.org/x/text v0.3.2 h1:tW2bmiBqwgJj/UpqtC8EpXEZVYOwU0yG4iWbprSVAcs=
+golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
